@@ -1,0 +1,29 @@
+[33mcommit 14c4821f0154c83dc8f2756bb01f9944dea15fa3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: gnarmac2k <richard.mcconkie@gmail.com>
+Date:   Mon Oct 9 22:19:13 2023 -0400
+
+    remove other large file
+
+[33mcommit 3fdcabd4839e291d6f3e904db1eef21f15a3d116[m
+Author: gnarmac2k <richard.mcconkie@gmail.com>
+Date:   Mon Oct 9 22:15:14 2023 -0400
+
+    remove npy file
+
+[33mcommit e901d6baf0d843026b63b1f134b6082dfaabe0ef[m
+Author: gnarmac2k <richard.mcconkie@gmail.com>
+Date:   Mon Oct 9 22:03:30 2023 -0400
+
+    update
+
+[33mcommit 21f12389feb6de4bbd4b37b05eb37c85b3f1e213[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: gnarmac2k <richard.mcconkie@gmail.com>
+Date:   Mon Oct 9 18:15:24 2023 -0400
+
+    adding tfidf analysis
+
+[33mcommit 20bc750bdc69973a7f0867205e5f9470dfd26f55[m
+Author: gnarmac2k <richard.mcconkie@gmail.com>
+Date:   Mon Oct 9 09:40:30 2023 -0400
+
+    new repo

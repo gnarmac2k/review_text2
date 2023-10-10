@@ -2,3 +2,5 @@ Data/
 movie_corpora.csv
 tokenized_movie_reviews.csv
 movies_with_clusters.csv
+tfidf_matrix.npy
+similarity_matrix.npy
